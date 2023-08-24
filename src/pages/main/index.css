@@ -1,0 +1,29 @@
+ body {
+   
+
+    background-image: url(https://en.stargres.pl/wp-content/uploads/2021/12/grey-wind-light-60x60-1-1024x1024.jpg);
+}
+
+.home-page h1 {
+   color: rgb(59, 41, 41);
+   font-style: italic;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   padding-left: 120px;
+}
+.home-page img {
+    opacity: 60%;
+    width: 40%;
+    height: 400px;
+    padding-left: 20px;
+}
+
+.home-page  p {
+    width: 30%;
+    padding-right: 20px;
+}
+.main-component {
+    display: flex;
+    justify-content: space-around;
+    
+    
+}

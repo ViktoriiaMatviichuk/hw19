@@ -1,0 +1,15 @@
+.photos-page img {
+    width: 300px;
+    height: 400px;
+    opacity: 100%;
+    padding: 30px;
+
+  
+}
+
+.photos-page h1 {
+    color: rgb(59, 41, 41);
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 120px;
+}

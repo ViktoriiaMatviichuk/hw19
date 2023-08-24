@@ -1,0 +1,28 @@
+
+.body {
+    background-color: antiquewhite;
+}
+
+.navigation {
+    display: flex;
+    padding: 10px 20px;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 40px;
+    font-size: 20px;
+    background-color: rgba(255, 255, 255, 0.525);
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.navigation a {
+
+    color: rgb(55, 34, 1);
+    text-decoration: none;
+}
+.navigation a:hover {
+
+    color: rgb(0, 0, 0);
+    text-decoration: overline;
+
+}

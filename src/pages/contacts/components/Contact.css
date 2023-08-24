@@ -1,0 +1,77 @@
+.contact-fullName {
+    padding: 10px 5px;
+
+    width: 505px;
+    background-color: white;
+    border: none;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.628);
+    text-align: left;
+    font-weight: 550;
+}
+
+
+.contact-photo {
+    width: 60px;
+    height: 60px;
+
+}
+
+.contact-info {
+    text-align: center;
+    width: 505px;
+}
+.contact-info p {
+    margin: 0px;
+}
+
+.phone-number {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 20px;
+    border-radius: 5px;
+    background-color: rgba(48, 46, 43, 0.035);
+}
+
+.phone-number p {
+    color: blue;
+}
+
+.contact-Name {
+    font-size: 26px;
+    padding-bottom: 30px;
+}
+
+
+.gender {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 20px;
+    border-radius: 5px;
+    background-color: rgba(48, 46, 43, 0.035);
+}
+
+.navigation-buttons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.navigation-buttons button {
+    color: blue;
+    border: none;
+    background-color: white;
+    font-size: 16px;
+    margin: 10px;
+}
+.arrow-button::before {
+    
+    background-image: url(https://icones.pro/wp-content/uploads/2021/06/symbole-fleche-gauche-bleu.png);
+    background-size: 10px 20px;
+    display: inline-block;
+    width: 12px; 
+    height: 16px;
+    content:"";
+  
+}
